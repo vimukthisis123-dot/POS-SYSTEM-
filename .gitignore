@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+build/
+.env
+.env.local
+tsconfig.tsbuildinfo
+whatsapp-bot/serviceAccountKey.json
+.vercel
+.env*
+!.env.example
